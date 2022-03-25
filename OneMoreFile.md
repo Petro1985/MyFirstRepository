@@ -2,14 +2,15 @@
 another text
 and more
 even more
-and now I'm going to count to ten
-1
-2
-3
-4
-5
-7
-8
-9
+and now I'm going to count to one from ten
 10
-I forgot 6. There is no reason to worry, next commit will fix that 
+9
+8
+7
+6
+5
+4
+3
+2
+1
+I forgot nothing this time. 
