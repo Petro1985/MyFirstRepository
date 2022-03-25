@@ -11,3 +11,5 @@ We already know next things:
 * What is Git
 * What is GitHub
 * What is markdown
+
+In conclusion, I want to add **this extra paragraph** in a *arbitrary style* ~~as my task required~~
