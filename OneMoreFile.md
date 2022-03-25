@@ -2,15 +2,14 @@
 another text
 and more
 even more
-and now I'm going to count to ten
+and now I'm going to count to 5 and back to 1
 1
 2
 3
 4
 5
-6
-7
-8
-9
-10
-As I said, everything has been fixed.
+4
+3
+2
+1
+I think it will be a good compromise. 
