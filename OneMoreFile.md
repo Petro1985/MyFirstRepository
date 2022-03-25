@@ -8,8 +8,9 @@ and now I'm going to count to ten
 3
 4
 5
+6
 7
 8
 9
 10
-I forgot 6. There is no reason to worry, next commit will fix that 
+As I said, everything has been fixed.
